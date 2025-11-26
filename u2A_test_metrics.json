@@ -1,0 +1,24 @@
+{
+  "auroc_per_class": {
+    "normal": 0.8272655322516819,
+    "cardiomegaly": 0.7602572757275727,
+    "pleural effusion": 0.7592184920198128,
+    "atelectasis": 0.7241003148897887,
+    "nodule": 0.7046074517631404,
+    "interstitial pattern": 0.8733049755091519,
+    "pleural thickening": 0.8613698098564222,
+    "scoliosis": 0.8150695284159613
+  },
+  "auprc_per_class": {
+    "normal": 0.7982549905111069,
+    "cardiomegaly": 0.6093711846286273,
+    "pleural effusion": 0.3209580012544498,
+    "atelectasis": 0.43648909297318716,
+    "nodule": 0.2936414568528138,
+    "interstitial pattern": 0.5694297487436468,
+    "pleural thickening": 0.634531138268303,
+    "scoliosis": 0.6496214354862196
+  },
+  "macro_auroc": 0.7906491725541914,
+  "macro_auprc": 0.5390371310897943
+}

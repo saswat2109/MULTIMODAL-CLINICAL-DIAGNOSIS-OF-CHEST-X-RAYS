@@ -1,0 +1,74 @@
+{
+  "normal": {
+    "precision": 0.7914691943127962,
+    "recall": 0.9175824175824175,
+    "f1-score": 0.8498727735368957,
+    "support": 546.0
+  },
+  "cardiomegaly": {
+    "precision": 0.7027027027027027,
+    "recall": 0.5252525252525253,
+    "f1-score": 0.6011560693641619,
+    "support": 99.0
+  },
+  "pleural effusion": {
+    "precision": 0.3037037037037037,
+    "recall": 0.5189873417721519,
+    "f1-score": 0.38317757009345793,
+    "support": 79.0
+  },
+  "atelectasis": {
+    "precision": 1.0,
+    "recall": 0.21153846153846154,
+    "f1-score": 0.3492063492063492,
+    "support": 52.0
+  },
+  "nodule": {
+    "precision": 0.3076923076923077,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.32,
+    "support": 72.0
+  },
+  "interstitial pattern": {
+    "precision": 0.42857142857142855,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.5217391304347826,
+    "support": 45.0
+  },
+  "pleural thickening": {
+    "precision": 0.88,
+    "recall": 0.4583333333333333,
+    "f1-score": 0.6027397260273972,
+    "support": 48.0
+  },
+  "scoliosis": {
+    "precision": 0.8148148148148148,
+    "recall": 0.55,
+    "f1-score": 0.6567164179104478,
+    "support": 80.0
+  },
+  "micro avg": {
+    "precision": 0.6712962962962963,
+    "recall": 0.7100881488736532,
+    "f1-score": 0.6901475487862923,
+    "support": 1021.0
+  },
+  "macro avg": {
+    "precision": 0.6536192689747192,
+    "recall": 0.5227117599348612,
+    "f1-score": 0.5355760045716865,
+    "support": 1021.0
+  },
+  "weighted avg": {
+    "precision": 0.7116230028204628,
+    "recall": 0.7100881488736532,
+    "f1-score": 0.6855649603976753,
+    "support": 1021.0
+  },
+  "samples avg": {
+    "precision": 0.6917493568540979,
+    "recall": 0.7559720690922456,
+    "f1-score": 0.7069827269386255,
+    "support": 1021.0
+  }
+}
